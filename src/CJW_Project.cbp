@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CJW_Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CJW_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CJW_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="aboutProgram.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aboutProgram.h" />
+		<Unit filename="analyze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="analyze.h" />
+		<Unit filename="dangerSet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dangerSet.h" />
+		<Unit filename="income.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="income.h" />
+		<Unit filename="lastDay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lastDay.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="performMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="performMenu.h" />
+		<Unit filename="rate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rate.h" />
+		<Unit filename="safetySet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="safetySet.h" />
+		<Unit filename="showIncome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="showIncome.h" />
+		<Unit filename="showMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="showMenu.h" />
+		<Unit filename="showSpend.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="showSpend.h" />
+		<Unit filename="spend.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spend.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

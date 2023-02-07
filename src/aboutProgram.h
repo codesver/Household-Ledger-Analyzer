@@ -1,0 +1,6 @@
+#ifndef ABOUTPROGRAM_H_INCLUDED
+#define ABOUTPROGRAM_H_INCLUDED
+
+void aboutProgram();
+
+#endif // ABOUTPROGRAM_H_INCLUDED

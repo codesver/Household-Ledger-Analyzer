@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1593427868 source:c:\software\cjw_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aboutProgram.h"
+	"showMenu.h"
+	"performMenu.h"
+
+1590383216 c:\software\cjw_project\menu.h
+	<stdio.h>
+
+1593425596 source:c:\software\cjw_project\aboutprogram.c
+	<stdio.h>
+
+1593424557 source:c:\software\cjw_project\showmenu.c
+	<stdio.h>
+
+1591106510 c:\software\cjw_project\aboutprogram.h
+
+1591106289 c:\software\cjw_project\showmenu.h
+
+1593428375 c:\software\cjw_project\performmenu.h
+
+1593481117 source:c:\software\cjw_project\income.c
+	<stdio.h>
+	"lastDay.h"
+
+1593481116 source:c:\software\cjw_project\spend.c
+	<stdio.h>
+	"lastDay.h"
+
+1593428424 c:\software\cjw_project\income.h
+
+1593429372 c:\software\cjw_project\spend.h
+
+1593433111 c:\software\cjw_project\showincome.h
+
+1593430413 source:c:\software\cjw_project\showincome.c
+	<stdio.h>
+	"lastDay.h"
+
+1593433125 source:c:\software\cjw_project\performmenu.c
+	<stdio.h>
+	"income.h"
+	"spend.h"
+	"showIncome.h"
+	"showSpend.h"
+	"analyze.h"
+
+1593434535 source:c:\software\cjw_project\showspend.c
+	<stdio.h>
+	"lastDay.h"
+
+1593429587 c:\software\cjw_project\showspend.h
+
+1593517324 source:c:\software\cjw_project\analyze.c
+	<stdio.h>
+	"rate.h"
+	"dangerSet.h"
+	"safetySet.h"
+
+1593433135 c:\software\cjw_project\analyze.h
+
+1591531746 source:c:\software\cjw_project\printincome.c
+	<stdio.h>
+
+1591522690 c:\software\cjw_project\printincome.h
+
+1593424132 source:c:\software\cjw_project\compare.c
+	<stdio.h>
+
+1593424212 c:\software\cjw_project\compare.h
+
+1593431304 source:c:\software\cjw_project\lastday.c
+	<stdio.h>
+
+1593430202 c:\software\cjw_project\lastday.h
+
+1593517125 source:c:\software\cjw_project\rate.c
+	<stdio.h>
+
+1593517128 c:\software\cjw_project\rate.h
+
+1593517200 source:c:\software\cjw_project\dangerset.c
+	<stdio.h>
+
+1593517200 c:\software\cjw_project\dangerset.h
+
+1593517324 c:\software\cjw_project\safetyset.h
+
+1593517324 source:c:\software\cjw_project\safetyset.c
+	<stdio.h>
+
